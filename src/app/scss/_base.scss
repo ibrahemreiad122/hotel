@@ -36,4 +36,6 @@ body {
     color: var(--grey-dark-2);
     background-image: linear-gradient(to right bottom, var(--red-light), var(--red-dark));
     min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
